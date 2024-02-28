@@ -26,3 +26,5 @@ SPDX  Latest Alpha
 SPDX non-existent Pinned version
 [![SPDX SBOM](https://img.shields.io/endpoint?url=https%3A%2F%2Fqa-api-hooks.soos.io%2Fapi%2Fshieldsio-badges%3FbadgeType%3DSpdxSbom%26pid%3Dunurnspmd%26packageVersion%3D3.4.5)](https://qa-app.soos.io/research/packages/NuGet/-/Soos.SampleProject/version/3.4.5?attributionFormat=Spdx)
 
+Smoke testing for 24-05.1
+[![Dependency Vulnerabilities](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi-hooks.soos.io%2Fapi%2Fshieldsio-badges%3FbadgeType%3DDependencyVulnerabilities%26pid%3Dazbbt8dm8%26branchName%3Dmain)](https://app.soos.io)
