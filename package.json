@@ -150,7 +150,7 @@
     "throttleit": "^1.0.0",
     "through": "^2.3.8",
     "tmp": "^0.2.1",
-    "tough-cookie": "^2.5.0",
+    "tough-cookie": "4.1.4",
     "tslib": "^2.3.1",
     "tunnel-agent": "^0.6.0",
     "tweetnacl": "^0.14.5",
