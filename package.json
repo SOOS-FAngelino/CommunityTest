@@ -149,7 +149,7 @@
     "supports-color": "^8.1.1",
     "throttleit": "^1.0.0",
     "through": "^2.3.8",
-    "tmp": "^0.2.1",
+    "temp": "0.9.4",
     "tough-cookie": "5.0.0",
     "tslib": "^2.3.1",
     "tunnel-agent": "^0.6.0",
