@@ -52,3 +52,6 @@ Latest Release: [![Public Vulnerabilities](https://img.shields.io/endpoint?url=h
 Pinned version (1.0.3): [![Public Vulnerabilities](https://img.shields.io/endpoint?url=https%3A%2F%2Fqa-api-hooks.soos.io%2Fapi%2Fshieldsio-badges%3FbadgeType%3DVulnerabilities%26pid%3D7dqwrcwff%26branchName%3Dmain%26packageVersion%3D1.0.3)](https://qa-app.soos.io/research/packages/npm/@soos-io/sample-project/version/1.0.3)
 
 
+Python
+pinned version (1.0.0): [![Public Vulnerabilities](https://img.shields.io/endpoint?url=https%3A%2F%2Fqa-api-hooks.soos.io%2Fapi%2Fshieldsio-badges%3FbadgeType%3DVulnerabilities%26pid%3Du2ghsgjpt%26branchName%3Dmain%26packageVersion%3D1.0.0)](https://qa-app.soos.io/research/packages/python/-/soos-sample-project/version/1.0.0)
+
